@@ -1,0 +1,12 @@
+By: GusttavoOliveira
+
+Analisando diferenças: git diff;
+Avaliando alterações: git log;
+Visualizando objetos: git show;
+Guardando alterações temporariamente: git stash;
+Copiando e colando commits: git cherry-pick
+Clonar Repositorios : git clone
+Adiciona os arquivos solicitados ao ambiente de stage : git add ou git add . (add geral)
+Salvar em si das modificações: git commit
+Subir modificações no nosso repositório remoto: git push
+Verificar status do dir : git status
